@@ -1,0 +1,44 @@
+{
+  "common": [
+    "rm -rf", 
+    "deltree", 
+    "format", 
+    "del /s", 
+    "del /q",
+    "shutdown", 
+    "reboot", 
+    "halt",
+    ":(){:|:&};:", 
+    "fork bomb", 
+    "dd if=/dev/zero",
+    "chmod -R 777 /", 
+    "chown -R",
+    "> /dev/sda", 
+    "mkfs"
+  ],
+  "windows": [
+    "format", 
+    "del /s", 
+    "del /q", 
+    "rd /s", 
+    "rd /q",
+    "rmdir /s",
+    "attrib -h -r -s",
+    "format c:",
+    "net user administrator",
+    "reg delete"
+  ],
+  "linux": [
+    "rm -rf", 
+    "mkfs", 
+    "dd if=/dev/zero",
+    "shred",
+    ":(){ :|:& };:",
+    "chmod -R 777 /",
+    "chown -R nobody:nogroup /",
+    "> /dev/sda",
+    "mkfs.ext4",
+    "fdisk",
+    "sudo rm"
+  ]
+} 

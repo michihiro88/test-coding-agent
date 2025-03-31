@@ -1,0 +1,83 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+#概要
+ - 本ルールは、OpenAI Agents SDKの資料です。
+ - Agents SDKを使用するときは、下記の資料を参照してください。
+
+#資料
+## 公式資料
+ - OpenAI Agents SDK
+   https://openai.github.io/openai-agents-python/
+
+ - Quickstart
+   https://openai.github.io/openai-agents-python/quickstart/
+
+ - openai/openai-agents-python: A lightweight, powerful framework for multi-agent workflows
+   https://github.com/openai/openai-agents-python
+
+## 有用な情報源
+### OpenAI Responses API 入門 
+	- 新しい OpenAI API の クイックスタート - Responses API ・ Agents SDK
+      https://note.com/npaka/n/nf6cc94556c67
+		
+	- OpenAI Responses API 入門 (1) - テキスト生成とプロンプト
+      https://note.com/npaka/n/nc497666772b8
+		
+	- OpenAI Responses API 入門 (2) - 画像とVision
+	  https://note.com/npaka/n/n68863a1fa403
+		
+	- OpenAI Responses API 入門 (3) - 構造化出力
+	  https://note.com/npaka/n/n6229e275cbfb
+		
+	- OpenAI Responses API 入門 (4) - Function Calling
+	  https://note.com/npaka/n/n07378b5a4579
+		
+	- OpenAI Responses API 入門 (5) - 会話状態
+	  https://note.com/npaka/n/nb4f1961664d6
+
+	- OpenAI Responses API 入門 (6) - ストリーミング
+	  https://note.com/npaka/n/nce4e1830b004
+		
+	- OpenAI Responses API 入門 (7) - ファイル入力
+      https://note.com/npaka/n/na9881511f1c8
+		
+	- OpenAI Responses API 入門 (8) - Reasoningモデル
+	  https://note.com/npaka/n/nb10ccc6608b3
+		
+	- OpenAI Responses API 入門 (9) - Web search
+      https://note.com/npaka/n/n0410c8e3f31e
+		
+	- OpenAI Responses API 入門 (10) - File search
+	  https://note.com/npaka/n/n0a15aa971ebe
+		
+    - OpenAI Responses API 入門 (11) - Computer use
+	  https://note.com/npaka/n/naed673290cf6	
+		
+### OpenAI Agents SDK 入門 
+	- OpenAI Agents SDK 入門 (1) - 事始め	
+	  https://note.com/npaka/n/n4afc430b7be1
+		
+	- OpenAI Agents SDK 入門 (2) - Agent ・ Runner ・ Result	
+	  https://note.com/npaka/n/ndbf7ba2795fe	
+		
+	- OpenAI Agents SDK 入門 (3) - Tool ・ Handoff ・ Tracing	
+	  https://note.com/npaka/n/nb83f80a0b023	
+		
+	- OpenAI Agents SDK 入門 (4) - Guardrail ・ Orchestration ・ Model	
+	  https://note.com/npaka/n/nf706e8f3552f	
+		
+	- OpenAI Agents SDK 入門 (5) - MCP	
+	  https://note.com/npaka/n/n1eded3a66914	
+
+### 他のモデルを使用することが可能
+    - OpenAI Agents SDKでOllama, Claude, Geminiのモデルを利用する
+      https://qiita.com/kitfactory/items/5a169e66b7205f83b555
+
+    - OpenAIのAgents SDKだけどGeminiやClaudeを使いたい！
+      https://note.com/rosso_blog/n/n876213348857
+
+
+　
